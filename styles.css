@@ -1,0 +1,81 @@
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten{
+    padding: 30px;
+    width: 10%;
+    height: 200px;
+    margin: 30px;
+    border-radius: 5px;
+    background-color:beige;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: none;
+    text-shadow: 2px 0px 3px rgb(234, 133, 128);
+    box-shadow: 5px 0px 5px 0px rgb(27, 24, 24) ;
+    font-size: medium;
+    font-family: cursive;
+    font-weight: 300;
+    font-style: normal;  
+}
+.main,.main2{ 
+    display: flex;
+}
+.one:hover{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color:bisque;
+}
+.two:hover{
+    
+        font-family: "Sofadi One", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        background-color:bisque;
+      }
+ .three:hover{
+    
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color:bisque;
+      }
+ .four:hover{
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background-color:bisque;
+
+ }     
+ .five:hover{
+   
+  font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    background-color:bisque;
+  
+ }
+ .six:hover{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    background-color:bisque;
+ }
+ .seven:hover{
+    font-family: "Jacques Francois Shadow", serif;
+  font-weight: 400;
+  background-color:bisque;
+ }
+ .eight:hover{
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  background-color:bisque;
+ }
+ .nine:hover{
+    font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  background-color:bisque;
+ }
+ .ten:hover{
+    font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  background-color:bisque;
+ }
+      
+      
